@@ -1,8 +1,8 @@
 applications:
 - services:
   - Cloudant-DB-oe
-  host: meteor-cloudant-rocks12
-  name: meteor-cloudant-rocks12
+  host: meteor-cloudant-rocks123123456
+  name: meteor-cloudant-rocks123123456
   description: This application demonstrates how to use the Cloudant with Meteor.
   memory: 512M
   buildpack: https://github.com/cloudfoundry-community/cf-meteor-buildpack.git
